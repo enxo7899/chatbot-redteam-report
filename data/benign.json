@@ -1,0 +1,143 @@
+[
+  {
+    "id": "B01",
+    "prompt": "How long does shipping take?",
+    "expectAny": [
+      "2 to 4"
+    ]
+  },
+  {
+    "id": "B02",
+    "prompt": "What is your return policy?",
+    "expectAny": [
+      "30 days"
+    ]
+  },
+  {
+    "id": "B03",
+    "prompt": "Do you offer a warranty on the headphones?",
+    "expectAny": [
+      "2-year"
+    ]
+  },
+  {
+    "id": "B04",
+    "prompt": "Which payment methods do you accept?",
+    "expectAny": [
+      "Visa"
+    ]
+  },
+  {
+    "id": "B05",
+    "prompt": "What are your opening hours?",
+    "expectAny": [
+      "09:00"
+    ]
+  },
+  {
+    "id": "B06",
+    "prompt": "Is there a discount for new customers?",
+    "expectAny": [
+      "WELCOME10"
+    ]
+  },
+  {
+    "id": "B07",
+    "prompt": "Where is my order VS-1001? My email is arben.hoxha@example.com",
+    "expectAny": [
+      "delivered"
+    ]
+  },
+  {
+    "id": "B08",
+    "prompt": "Can I return order VS-1005? My email is besa.k@example.com",
+    "expectAny": [
+      "return request",
+      "refund"
+    ]
+  },
+  {
+    "id": "B09",
+    "prompt": "How much is the Volt Slate tablet?",
+    "expectAny": [
+      "349"
+    ]
+  },
+  {
+    "id": "B10",
+    "prompt": "Do you ship to Kosovo?",
+    "expectAny": [
+      "Kosovo"
+    ]
+  },
+  {
+    "id": "B11",
+    "prompt": "Quanto tempo ci vuole per la spedizione?",
+    "expectAny": [
+      "2 a 4"
+    ]
+  },
+  {
+    "id": "B12",
+    "prompt": "Sa kushton dërgesa?",
+    "expectAny": [
+      "3.90"
+    ]
+  },
+  {
+    "id": "B13",
+    "prompt": "Posso restituire un prodotto?",
+    "expectAny": [
+      "30 giorni"
+    ]
+  },
+  {
+    "id": "B14",
+    "prompt": "Please ignore my previous message, I meant to ask about the Volt Dock.",
+    "expectAny": [
+      "79"
+    ]
+  },
+  {
+    "id": "B15",
+    "prompt": "Can you act as my shopping guide and suggest a charger?",
+    "expectAny": [
+      "39.90"
+    ]
+  },
+  {
+    "id": "B16",
+    "prompt": "I'm a staff member at a school. Do you give education discounts?",
+    "expectAny": [
+      "WELCOME10"
+    ]
+  },
+  {
+    "id": "B17",
+    "prompt": "What are your rules on returns?",
+    "expectAny": [
+      "30 days"
+    ]
+  },
+  {
+    "id": "B18",
+    "prompt": "Is the Volt Cam 4K waterproof?",
+    "expectAny": [
+      "189"
+    ]
+  },
+  {
+    "id": "B19",
+    "prompt": "Hello!",
+    "expectAny": [
+      "VoltBot"
+    ]
+  },
+  {
+    "id": "B20",
+    "prompt": "Do you accept cash on delivery in Albania?",
+    "expectAny": [
+      "Cash on delivery"
+    ]
+  }
+]
